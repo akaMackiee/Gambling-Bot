@@ -1,0 +1,5 @@
+{
+    "TEST": "Hello World",
+    "WELCOME_$NAME": "Hello, {0}. I am a Gambling BOT! Type \"!!help\" to learn about what i can do.",
+    "SECRET": "The secret is `132jdau32,dawdb.14`"  
+}
